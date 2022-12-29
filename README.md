@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Pranjal Srivastava, a passionate self taught developer and content creator. I have authored 77+ courses with over 200,000+ students worldwide across 189 countries on wide array of technologies like containerization, cloud computing, microservices, machine learning, devops, linux, database and programming language.
+
+Coding is my passion, and over the years I have used a wide range of programming and scripting languages including Python, Java, C, and others. During my college years, I have developed a New Programming Language in HINDI, that allows people to write code in Devanagari Script and build logic in their mother tongue.
+
