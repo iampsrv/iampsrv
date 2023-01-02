@@ -18,7 +18,7 @@ I'm Pranjal Srivastava, a passionate self taught developer and content creator. 
 
 Coding is my passion, and over the years I have used a wide range of programming and scripting languages including Python, Java, C, and others. During my college years, I have developed a New Programming Language in HINDI, that allows people to write code in Devanagari Script and build logic in their mother tongue.
 
-<a href="https://www.linkedin.com/in/srivastavapranjal/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> </a> 
+<a href="https://www.linkedin.com/in/srivastavapranjal/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> </a> <a href="https://www.udemy.com/user/c05ba784-542c-40b5-9e85-08f7a4ab424e/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
