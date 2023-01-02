@@ -26,8 +26,8 @@ For more than 5 years, I have been involved with multiple E-learning platforms l
   
 <a href="https://www.udemy.com/user/c05ba784-542c-40b5-9e85-08f7a4ab424e/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"> </a>
 
-Skillshare: https://www.skillshare.com/user/pranjalsrivastava
-Tutorialspoint: https://www.tutorialspoint.com/videotutorials/profile/pranjal_srivastava
+Skillshare: https://www.skillshare.com/user/pranjalsrivastava <br>
+Tutorialspoint: https://www.tutorialspoint.com/profile/pranjal_srivastava <br>
 Simpliv: https://www.simplivlearning.com/author/5b8797d8cebff70065732ea0
 
 <h3 align="left"> Programming Languages:</h3>
