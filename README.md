@@ -19,9 +19,16 @@ I'm Pranjal Srivastava, a passionate self taught developer and content creator. 
 Coding is my passion, and over the years I have used a wide range of programming and scripting languages including Python, Java, C, and others. During my college years, I have developed a New Programming Language in HINDI, that allows people to write code in Devanagari Script and build logic in their mother tongue.
 
 ### Connect with me 📫
-<a href="https://www.linkedin.com/in/srivastavapranjal/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin">
+<a href="https://www.linkedin.com/in/srivastavapranjal/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> </a> 
+<a href="https://www.youtube.com/channel/UCnAcs_ZFdpN--h4xtO4sCdg" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"> </a>
+ 
+For more than 5 years, I have been involved with multiple E-learning platforms like Udemy, Skillshare, Tutorialspoint and others.
   
-</a> <a href="https://www.udemy.com/user/c05ba784-542c-40b5-9e85-08f7a4ab424e/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"> </a> <a href="https://www.youtube.com/channel/UCnAcs_ZFdpN--h4xtO4sCdg" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"> </a>
+<a href="https://www.udemy.com/user/c05ba784-542c-40b5-9e85-08f7a4ab424e/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"> </a>
+
+Skillshare: https://www.skillshare.com/user/pranjalsrivastava
+Tutorialspoint: https://www.tutorialspoint.com/videotutorials/profile/pranjal_srivastava
+Simpliv: https://www.simplivlearning.com/author/5b8797d8cebff70065732ea0
 
 <h3 align="left"> Programming Languages:</h3>
 <p align="left"> 
